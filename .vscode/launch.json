@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MessyCode",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "codeStyle.MessyCode",
+            "args": "",
+            "projectName": "RecitationCodeStyle"
+        }
+    ]
+}
