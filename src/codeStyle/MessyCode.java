@@ -14,8 +14,8 @@ public class MessyCode {
 		int[][] b = {{2,3,1},{3,6,2}};
 		int[][] x = matrixmethod(a,b);
 		
-		for(int i[] : x) {
-			for(int j : i) {
+		for(  int i[] :x) {
+			for(int j :i) {
 				System.out.print(j + " ");
 			}
 			System.out.println("" + '\n');
